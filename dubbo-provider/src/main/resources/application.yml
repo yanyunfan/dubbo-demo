@@ -6,4 +6,4 @@ spring:
       name: dubbo
       port: 20880
     registry:
-      address: zookeeper://39.105.38.226:2181
+      address: zookeeper://localhost:2181

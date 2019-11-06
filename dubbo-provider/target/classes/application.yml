@@ -1,9 +1,0 @@
-spring:
-  dubbo:
-    application:
-      name: dubbo-provider
-    protocol:
-      name: dubbo
-      port: 20880
-    registry:
-      address: zookeeper://39.105.38.226:2181
